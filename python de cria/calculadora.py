@@ -15,6 +15,6 @@ elif operacao == '*':
     resultado = a * b
 
 else :
-    resultado = "seleciona uma operacao valida fdp"
+    resultado = "selecione uma operacao valida"
 
 print (resultado)
